@@ -1,7 +1,7 @@
 <!-- Profile README by GPT for SAINT Develops -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Adeniyi+Bukola+%28SAINT+Develops%29;Full+Stack+Web+%26+Native+App+Developer;MERN+Stack+%7C+Firebase+%;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Adeniyi+Bukola+%28SAINT+Develops%29;Full+Stack+Web+%26+Native+App+Developer;MERN+Stack+%7C+Firebase+;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 ---
