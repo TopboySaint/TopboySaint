@@ -33,7 +33,6 @@ I’m **Adeniyi Bukola**, known as **SAINT Develops**— a passionate software e
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GPT%2FAI-412991?style=flat&logo=openai&logoColor=white" />
 </p>
 
 ---
