@@ -40,11 +40,33 @@ I’m **Adeniyi Bukola**, known as **SAINT Develops**— a passionate software e
 
 ### 🚀 Featured Projects
 
-<!-- Replace the links below with your best repositories -->
-- 🔥 [Project Name #1](https://github.com/TopboySaint/your-project-1) — *Brief description of this awesome project.*
-- 💡 [Project Name #2](https://github.com/TopboySaint/your-project-2) — *Short summary of what it does.*
-- 🎯 [Project Name #3](https://github.com/TopboySaint/your-project-3) — *Highlight key features or achievements.*
+🗂️ **Task Manager App (Progressive-Web-Application)**
+A Full Stack Task Management Application that helps users organize their daily activities with ease. Built with modern technologies, the app allows authenticated users to create, update, complete, and delete tasks — all in a clean and responsive interface.
 
+🚀 Features
+🔐 User authentication (Sign up / Log in)
+
+📝 Add, edit, and delete tasks
+
+✅ Mark tasks as completed or pending
+
+💾 Persistent storage using MongoDB 
+
+⚡ Fast and responsive UI with bootstrap CSS
+
+🛠️ Tech Stack
+Frontend: Reactjs, CSS (bootstrap)
+
+Backend: Node.js + Express.js
+
+Database: MongoDB 
+
+Authentication: JWT
+
+📌 Purpose
+This app was built as a personal project to practice full stack development — combining frontend UI with backend API development and secure data handling.
+
+Deployed link : https://basic-react-pwa-todo-app.vercel.app/
 ---
 
 ### 🏆 Achievements & Certifications
