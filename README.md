@@ -1,4 +1,4 @@
-<!-- Profile README by GPT for Adeniyi Bukola (SAINT Develops) -->
+<!-- Profile README by GPT for SAINT Develops -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Adeniyi+Bukola+%28SAINT+Develops%29;Full+Stack+Web+%26+Native+App+Developer;MERN+Stack+%7C+Firebase+%7C+GPT+AI+Enthusiast;Welcome+to+my+GitHub+Profile!" />
@@ -8,12 +8,12 @@
 
 ### 👋 About Me
 
-I’m **Adeniyi Bukola**, known as **SAINT Develops**—a passionate software developer dedicated to building robust, scalable, and user-centric web and native applications. With a deep proficiency in the **MERN stack** and **Firebase**, I thrive on crafting solutions that blend creativity with technical excellence. I have a strong interest in leveraging AI tools like GPT and integrating modern DevOps practices for efficient delivery.
+I’m **Adeniyi Bukola**, known as **SAINT Develops**— a passionate software engineer, software developer dedicated to building robust, scalable, and user-centric web and native applications. With a deep proficiency in the **MERN stack** and **Firebase**, I thrive on crafting solutions that blend creativity with technical excellence. I have a strong interest in leveraging AI tools and technologies and integrating modern DevOps practices for efficient delivery.
 
-- 🧑‍💻 **Expertise:** Full-Stack Development, RESTful APIs, Real-Time Apps, Authentication, Data Modeling, AI Integrations
-- 👨‍🏫 **Education:** SQI Data Science Week (2025) Certification
+- 🧑‍💻 **Expertise:** Full-Stack web Development, RESTful APIs, Real-Time Apps, Authentication, Data Modeling, AI Integrations
+- 👨‍🏫 **Education:** Computer science (National Diploma), Software Engineering (Professional Diploma), freeCodeCamp full-stack developer curriculum certificate, SQI Data Science Week (2025) Certificate of completion. 
 - 🤝 **Open to Collaboration:** I love volunteering for impactful projects, both simple and complex!
-- 🌟 **Mission:** Empower businesses and communities through scalable, maintainable, and innovative software solutions.
+- 🌟 **Mission:** Empower humanity (businesses and communities) through scalable, maintainable, and innovative software & digital solutions.
 
 ---
 
@@ -49,7 +49,9 @@ I’m **Adeniyi Bukola**, known as **SAINT Develops**—a passionate software de
 
 ### 🏆 Achievements & Certifications
 
-- 🥇 **SQI Data Science Week Certificate (2025)**
+- 🥇 **Computer science (National Diploma)**
+- 🥇 **Software Engineering (Professional Diploma)**
+- 🥇 **SQI Data Science Week Certificate of completion (2025)**
 - 🚧 *More certifications coming soon...*
 
 ---
@@ -81,10 +83,10 @@ I’m **Adeniyi Bukola**, known as **SAINT Develops**—a passionate software de
 
 ### 🎨 Interests & Fun Facts
 
-- 🤖 AI, Machine Learning, and GPT-powered applications
+- 🎵 Music lover, and lifelong learner!
 - 🌍 Volunteering for tech communities and open-source projects
 - ⚡ Hackathons, tech meetups, and collaborative coding
-- 🎮 Casual gamer, music lover, and lifelong learner!
+- 🤖 Software development (web & native apps), Data science, AI-powered applications & Machine Learning
 
 ---
 
