@@ -62,7 +62,7 @@ Authentication: JWT
 📌 Purpose
 This app was built as a personal project to practice full MERN stack development - combining frontend UI with backend API development and secure data handling.
 
-Deployed link : coming soon
+Deployed link : (https://web-vault-alpha.vercel.app/)
 ---
 
 ### 🏆 Achievements & Certifications
