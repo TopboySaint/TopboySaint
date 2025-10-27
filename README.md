@@ -92,9 +92,9 @@ A personal portfolio showcasing my projects and skills, optimized for performanc
 
 - **Features:**
   - 📱 Responsive design with TailwindCSS
-  - ⚡ Server-side rendering with Next.js
-  - 🔒 Secure contact form with Firebase
-- **Tech Stack:** Next.js, TypeScript, TailwindCSS, Firebase
+  - ⚡ Server-side rendering with React.js
+  - 🔒 Secure contact form with Emailjs
+- **Tech Stack:** Next.js, TypeScript, TailwindCSS, Emailjs
 - **Deployed:** [Portfolio](https://saint-develops-portfolio-website.vercel.app/)
 
 ---
