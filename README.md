@@ -9,11 +9,6 @@
 I'm **Adeniyi Bukola**, known as **SAINT Develops**, a passionate Software Engineer specializing in full-stack web and native app development. I craft scalable, user-centric solutions using modern technologies like **MERN**, **Next.js**, **React Native**, **TypeScript**, and **Firebase**. My focus is on clean architecture, performance, accessibility, and secure data flow, inspired by principles like Uncle Bob's Clean Code. I’m excited about integrating AI tools and DevOps practices to deliver innovative, maintainable products.
 
 - 🧑‍💻 **Expertise:** Full-Stack Development, RESTful APIs, Real-Time Apps, Authentication, Data Modeling, AI Integrations
-- 🎓 **Education:** 
-  - National Diploma in Computer Science
-  - Professional Diploma in Software Engineering (SQI College of ICT)
-  - freeCodeCamp Full-Stack Developer Curriculum Certificate
-  - SQI Data Science Week Certificate (2025)
 - 🤝 **Collaboration:** Open to impactful open-source projects and hackathons
 - 🌟 **Mission:** Empower businesses and communities through scalable, innovative software solutions
 
@@ -105,7 +100,7 @@ A personal portfolio showcasing my projects and skills, optimized for performanc
 - 🥇 Professional Diploma in Software Engineering (SQI College of ICT)
 - 🥇 freeCodeCamp Full-Stack Developer Curriculum Certificate
 - 🥇 SQI Data Science Week Certificate (2025)
-- 🚧 Actively pursuing certifications in AWS and Advanced React
+- 🚧 Actively pursuing certifications in System Design and Architecture, Advanced Software Development & Theoretical Computer Science.
 
 ---
 
